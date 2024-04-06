@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <strong>The Github account for the LSBU Robotics Society.</strong>
+  The Github account for the <strong>LSBU Robotics Society.</strong>
 </p>
 
 
